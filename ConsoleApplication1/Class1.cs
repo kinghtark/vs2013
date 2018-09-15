@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public int MyProperty { get; set; }
         public int b { get; set; }
-        public int dj { get; set; }
+        public int time { get; set; }
 
     }
 }
